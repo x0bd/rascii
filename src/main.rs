@@ -27,5 +27,5 @@ fn get_image(dir: &str, scale: u32) {
 }
 
 fn main() {
-    get_image("morty.png", 2);
+    get_image("rick.png", 2);
 }
